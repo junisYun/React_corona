@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_corona/static/css/main.b2a77538.chunk.css",
+    "main.js": "/React_corona/static/js/main.54f0a8a5.chunk.js",
+    "main.js.map": "/React_corona/static/js/main.54f0a8a5.chunk.js.map",
+    "runtime-main.js": "/React_corona/static/js/runtime-main.c56b17ab.js",
+    "runtime-main.js.map": "/React_corona/static/js/runtime-main.c56b17ab.js.map",
+    "static/css/2.4be38407.chunk.css": "/React_corona/static/css/2.4be38407.chunk.css",
+    "static/js/2.af33455a.chunk.js": "/React_corona/static/js/2.af33455a.chunk.js",
+    "static/js/2.af33455a.chunk.js.map": "/React_corona/static/js/2.af33455a.chunk.js.map",
+    "static/js/3.b4ff4000.chunk.js": "/React_corona/static/js/3.b4ff4000.chunk.js",
+    "static/js/3.b4ff4000.chunk.js.map": "/React_corona/static/js/3.b4ff4000.chunk.js.map",
+    "index.html": "/React_corona/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/React_corona/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.b2a77538.chunk.css.map": "/React_corona/static/css/main.b2a77538.chunk.css.map",
+    "static/js/2.af33455a.chunk.js.LICENSE.txt": "/React_corona/static/js/2.af33455a.chunk.js.LICENSE.txt",
+    "static/media/covid19-information-and-updates-serbia-banner.jpg": "/React_corona/static/media/covid19-information-and-updates-serbia-banner.2a8a368d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c56b17ab.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.af33455a.chunk.js",
+    "static/css/main.b2a77538.chunk.css",
+    "static/js/main.54f0a8a5.chunk.js"
+  ]
+}
